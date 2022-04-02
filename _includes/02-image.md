@@ -1,1 +1,1 @@
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![An myth of some kind](https://octodex.github.com/images/yaktocat.png)
